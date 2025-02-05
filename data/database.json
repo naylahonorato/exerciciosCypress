@@ -74,6 +74,17 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "HiF9mj_5t",
+      "uuid": "70747f77-647e-4103-88f9-b07514c138fb",
+      "firstName": "teste",
+      "lastName": "teste",
+      "username": "teste",
+      "password": "$2a$10$U4OBv3wcBSWhFhk9AyDu4.4XC7QeNIHfnxpOvflqBt6FRj1usnBB.",
+      "balance": 0,
+      "createdAt": "2025-02-04T23:51:59.583Z",
+      "modifiedAt": "2025-02-04T23:51:59.583Z"
     }
   ],
   "contacts": [

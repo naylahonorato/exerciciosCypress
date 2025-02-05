@@ -1,0 +1,27 @@
+{
+    "userSucess":{
+        "username": "Heath93",
+        "password": "s3cret"
+    },
+    "userFail": {
+        "username": "test",
+        "password": "test"
+    },
+
+    "registerSucess": {
+        "firstName": "Test",
+        "lastName": "Test",
+        "username": "test",
+        "password": "s3cret",
+        "confirmPassword": "s3cret"
+    },
+    "registerFail": {
+        "firstName": "Test",
+        "lastName": "Test",
+        "username": "test",
+        "password": "tes",
+        "confirmPassword": "tes"
+
+
+    }
+}
