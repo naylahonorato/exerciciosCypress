@@ -2,7 +2,12 @@
     "userSucess":{
         "username": "Heath93",
         "password": "s3cret"
-    },
+    },   
+    "userNoTransaction": {
+      "username": "test",
+      "password": "s3cret"
+},
+    
     "userFail": {
         "username": "test",
         "password": "test"
@@ -24,4 +29,5 @@
 
 
     }
+   
 }

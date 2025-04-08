@@ -10,7 +10,7 @@ class LoginPage{
         return selectors
     }
     accessLoginPage(){
-        cy.visit('http://localhost:3000')
+        cy.visit('/')
     }
     loginWithUser(username,password){
         cy.get(this.selectorsList().usernameField).type(username)
